@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1425">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ConnectForIns_2);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #707070;
+      }
+
+      .cls-4 {
+        stroke: rgba(112,112,112,0.22);
+        stroke-width: 10px;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+
+      .cls-7 {
+        fill: #dae0c4;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#161141"/>
+      <stop offset="1" stop-color="#060440"/>
+    </linearGradient>
+    <clipPath id="clip-ConnectForIns_2">
+      <rect width="1920" height="1425"/>
+    </clipPath>
+  </defs>
+  <g id="ConnectForIns_2" data-name="ConnectForIns – 2" class="cls-1">
+    <rect class="cls-7" width="1920" height="1425"/>
+    <g id="Group_5053" data-name="Group 5053">
+      <path id="Path_391" data-name="Path 391" class="cls-2" d="M1041.756,690.649v405.219l-.619,135.579v16.926s-50.215,24.538-101.311,41.042c-563.3,181.946-1659,280.668-1818.8,217.365h0l.041-258.408s.178-1027.781.178-1116.766H1041.756Z" transform="translate(878.908 -131.486)"/>
+      <path id="Path_5574" data-name="Path 5574" class="cls-3" d="M499.02,255.948"/>
+      <g id="Rectangle_981" data-name="Rectangle 981" class="cls-4" transform="translate(169.096 3379.842) rotate(45)">
+        <rect class="cls-5" width="64" height="64"/>
+        <rect class="cls-6" x="5" y="5" width="54" height="54"/>
+      </g>
+    </g>
+  </g>
+</svg>
